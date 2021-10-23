@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV Fatimah Aznur</title>
+  </head>
+  <body>
+    <center>
+      <div
+        style="
+          display: grid;
+          grid-template-columns: 55% 45%;
+          width: 70%;
+          margin-top: 100px;
+          border: 3px rgb(184, 67, 0) dashed;
+          border-radius: 20px;
+          box-shadow: 10px 10px 10px rgb(184, 67, 0);
+        "
+      >
+        <div>
+          <center>
+            <img src="78-785827_user-profile-avatar-login-account-male-user-icon.png"
+              style="border: 5px rgba(184, 67, 0); border-radius: 50%; margin-top: 20px"/>
+            <br />
+            <br />
+            <h1>Biodata Diri</h1>
+          </center>
+          <table>
+            <tr>
+              <td>Nama</td>
+              <td>:</td>
+              <td>Fatimah Aznur</td>
+            </tr>
+            <tr>
+              <td>Tempat Tanggal Lahir</td>
+              <td>:</td>
+              <td>Bogor, 06 Oktober 2002</td>
+            </tr>
+            <tr>
+              <td>Jenis Kelamin</td>
+              <td>:</td>
+              <td>Perempuan</td>
+            </tr>
+            <tr>
+              <td>Agama</td>
+              <td>:</td>
+              <td>Islam</td>
+            </tr>
+            <tr>
+              <td>Status</td>
+              <td>:</td>
+              <td>Pelajar/Mahasiswa</td>
+            </tr>
+            </tr>
+          </table>
+          <br />
+        </div>
+        <div>
+          <h1 align="left">Riwayat Pendidikan</h1>
+          <ol style="font-size: 17px; text-align: left">
+            <li>MI.Tarbiatul Aulad 2008-2014</li>
+            <li>MTsN 3 Bogor 2014-2017</li>
+            <li>MAN 1 Bogor 2017-2020</li>
+          </ol>
+          <br />
+          <hr />
+          <br />
+          <h1 align="left">Pengalaman Kerja</h1>
+          <ol style="font-size: 17px; text-align: left">
+            <li>Administrasi Praktek Dokter Umum (2020)</li>
+          </ol>
+        </div>
+      </div>
+    </center>
+  </body>
+</html>
